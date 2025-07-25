@@ -7,4 +7,4 @@ This project includes a compiled Windows version of WDWorm. The source code and 
 This work was funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) - Project-ID 434434223 - SFB 1461.
 
 ## License
-The code in this repository is under the BY-NC-SA Creative Commons license as specified by the LICENSE file.
+The code in this repository is under the CC-BY 4.0 Creative Commons license as specified by the LICENSE file.
